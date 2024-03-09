@@ -2,8 +2,13 @@ body{
     background-color: #f4f4f4;
     font-family: Arial, sans-serif;
     text-align: center;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: rgb(167, 128, 203);
+    font-size: 14px;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    padding: 1%;
+    overflow: hidden;
+    border: 1px solid #ccc;
 }
