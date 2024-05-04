@@ -1,5 +1,5 @@
 # Hyperblog 💚🍕💻🍀
-Un blog básico para el curso de [Git y Github](http://https://platzi.com/new-home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Git y Github") de Platzi
+Un blog básico para el curso de [Git y Github](https://platzi.com/new-home/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Git y Github") de Platzi
 > El curso de Git y Github es lo que me hacía falta para triplicar mis saladario y lanzarme a la industria del tejido de lana sintetica con Machine Learning 
 > - curso
 
