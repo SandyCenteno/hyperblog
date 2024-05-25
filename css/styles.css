@@ -1,9 +1,5 @@
 body{
-<<<<<<< HEAD
-    background-color: #f4f4f4;
-=======
     color: #333;
->>>>>>> text-english
     font-family: 'Arial', sans-serif;
     text-align: center;
     font-size: 16px;
@@ -21,11 +17,7 @@ body{
 }
 
 .subtitulo{
-<<<<<<< HEAD
-    color: white;
-=======
     color: #ccc;
->>>>>>> text-english
     font-size: 16px;
     font-weight: normal;
     padding: 0.5em;
@@ -42,16 +34,12 @@ body{
     overflow: hidden;
     border: 1px solid #ccc;
     text-align: left;
-<<<<<<< HEAD
-}
-=======
 }
 
 #footer{
-    background-color: rgb(81, 81, 85);
+    background-color: #33A;
     color: white;
     padding: 0.1em;
     margin: 0;
     text-align: center;
 }   
->>>>>>> text-english
